@@ -27,7 +27,9 @@ This is a perfect beginner-to-intermediate level Laravel project that helps you 
 - Designing a clean Bootstrap 5 UI
 
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/shayanahmad1999/laravel-12-crud.git
+
+# Change Folder
 cd <project-folder>
 
 # Install PHP dependencies
